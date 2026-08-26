@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文冥包称谓生成"
+  short_description: "依据亲属关系、性别和姓氏生成可直接抄写的冥包两列称谓"
+  default_prompt: "使用 $chinese-fubao-skill 按亲属关系生成两列可直接抄写的冥包称谓。"
