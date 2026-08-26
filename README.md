@@ -77,6 +77,20 @@ python3 scripts/generate_fubao.py \
 
 表中详细转写见 [references/source-tables.md](references/source-tables.md)，生成器当前稳定支持的常见关系见 [references/relationships.md](references/relationships.md)。原表中的男性送包人称谓会按用户实际性别调整；原表中的 `讳`、`老大人/老孺人` 默认省略。
 
+### 原始图片
+
+直系祖先称谓表：
+
+![直系祖先称谓对照表](references/images/01-direct-ancestors.jpg)
+
+外亲、叔伯、堂亲及兄弟姐妹称谓表：
+
+![外亲旁系称谓对照表](references/images/02-extended-family.jpg)
+
+岳家、继亲、乳亲及姻亲称谓表：
+
+![岳家姻亲称谓对照表](references/images/03-in-laws.jpg)
+
 ## 地方习俗说明
 
 冥包／袱包称谓并非全国完全统一。不同地区、家族或仪式体系可能采用不同词序和称谓。本项目以用户提供的三张对照表和已经确认的填写规则为优先依据；表外复杂关系应按当地习俗核实，不应由程序猜测。
